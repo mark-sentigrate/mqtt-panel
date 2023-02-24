@@ -1,7 +1,7 @@
 {
   "type": "panel",
   "name": "MQTT panel",
-  "id": "geeksrus-mqtt-panel",
+  "id": "mark7b10-mqtt-panel",
   "info": {
     "description": "A panel to enable grafana to fulfil simple control tasks via MQTT",
     "author": {
